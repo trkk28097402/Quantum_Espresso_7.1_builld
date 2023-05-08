@@ -8,7 +8,7 @@ It is based on density-functional theory, plane waves, and pseudopotentials.
 #### cp.x
 A core component of the Quantum ESPRESSO distribution.
 CP can perform Car-Parrinello molecular dynamics, including variable-cell dynamics
-#### pw.x
+#### pw.x  
 A set of programs for electronic structure calculations within density functional theory and density functional perturbation theory, using plane wave basis sets and pseudopotentials.
 ---
 ## 2.Environment
