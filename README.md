@@ -1,5 +1,5 @@
 # QE 7.1
-紀錄大二第一次參加叢集競賽(ISC23 online)的題目
+紀錄大二第一次參加叢集競賽(ISC23 online)的題目, 我負責的是FAU cluster的部分，主要處理cpu上的加速
 
 ## 1. Intro
 ### Quantum Espresso 
