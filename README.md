@@ -19,3 +19,6 @@ Intel2021 with IntelMPI
 
 ## 4. Run
 Simply run the build.sh and sbatch the job_script.sh
+
+## 5. Presentation
+[link](https://docs.google.com/presentation/d/1g4J2sNm8ppIY0BHyejpQ3K5QlXU4mXNc2t8xBvaYsFk/edit?usp=sharing)
